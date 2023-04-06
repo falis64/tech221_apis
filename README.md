@@ -6,6 +6,8 @@ What are API’s? How are they used and why are they so popular?
 
 
 Make a diagram to showcase the data transfer process in API communication.
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/129381619/230449690-372a0b54-3ec5-48e5-a407-373b18fe9767.png">
+
 
 What is a REST API? What makes an API RESTful?
 - REST stands for Representational State Transfer. REST defines a set of functions like GET, PUT, DELETE, etc. that clients can use to access server data. Clients and servers exchange data using HTTP.
